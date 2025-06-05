@@ -41,6 +41,8 @@ llm-studio/
     └── scratch/     # Today's working memory
 ```
 
+> Based on the [Human-LLM Pairing Manifesto](https://github.com/achamian/human-llm-pairing-manifesto) - treating LLMs as thought partners, not task executors.
+
 ## The Vibes
 
 Three perspectives that emerged from actual pairing:
