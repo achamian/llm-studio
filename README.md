@@ -50,6 +50,8 @@ Three perspectives that emerged from actual pairing:
 - **Maker** 📁: Builds things, ships code, maintains momentum  
 - **Checker** ✓: Guards quality, questions assumptions, keeps it real
 
+*Plus **Scribe** 📜 who watches silently, capturing patterns worth remembering*
+
 They're not roles. They're thinking modes. You'll feel the difference.
 
 ## Real Usage
@@ -66,6 +68,20 @@ You: "Team mob on this regex"
 Maker: "Start with the simplest match"
 Checker: "What edge cases will break this?"
 Weaver: "Maybe we don't need a regex..."
+```
+
+```
+You: "That Promise.all pattern we used yesterday was clean"
+Maker: "Yeah, let me build on that"
+*Scribe quietly saves to exo/patterns/parallel-async.md*
+Weaver: "It's becoming our go-to for batch operations"
+```
+
+```
+You: "We keep hitting this CORS issue"
+Scribe: *checking notes* "Last three times: proxy config, not the app"
+Maker: "Right! Check the nginx conf first"
+Checker: "Why do we keep forgetting this?"
 ```
 
 ## Your exo/ Evolution
